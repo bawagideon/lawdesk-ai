@@ -1,0 +1,20 @@
+{
+  "name": "lawdesk-ai",
+  "version": "1.0.0",
+  "description": "Corporate Legal & Regulatory WhatsApp/Telegram Compliance RAG Bot with CAMA 2020 and Contract Clause Auditing",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/lawdesk.test.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "legaltech",
+    "cama-2020",
+    "ndpa",
+    "compliance",
+    "clause-analyzer",
+    "contract-review"
+  ],
+  "author": "Gideon Bawa <bawagideon98@gmail.com>",
+  "license": "MIT"
+}
